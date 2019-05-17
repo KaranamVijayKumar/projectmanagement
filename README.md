@@ -1,12 +1,12 @@
-# Project Title
+# Project Title:
 
-## Project Description
+## Project Description:
 
 ## Team Name : Fab Four 
 ## Team Members 
-1. Mehar Choudhary Meenavilli
+1. Vijay Kumar Karanam
 2. Gunashekar Koppula
-3. Vijay Kumar Karanam
+3. Mehar Choudhary Meenavilli
 4. Sai Krishna Teja Kancharla
 
 ## Client
@@ -62,6 +62,7 @@
     <td>4032096071</td>
   </tr>
 </table>
+<br>
 
 ## Stakeholder Register:
 
