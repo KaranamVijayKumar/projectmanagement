@@ -2,8 +2,8 @@
 
 ## Project Description
 
-## Team name : Fab Four 
-## Team members 
+## Team Name : Fab Four 
+## Team Members 
 1. Mehar Choudhary Meenavilli
 2. Gunashekar Koppula
 3. Vijay Kumar Karanam
