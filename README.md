@@ -17,7 +17,7 @@
 ## Project Charter
 
 ### Project Title :
-### Project Start Date: 05/17/19               Projected Finish Date: 05/31/19
+### Project Start Date: 05/17/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projected Finish Date: 05/31/19
 ### Budget Information: $ 600
 
 ### Project Manager: Vijay Kumar Karanam
@@ -65,7 +65,7 @@
 
 ## Stakeholder Register
 
-### Prepared by: Vijay Kumar Karanam  Date: 05/17/2019
+### Prepared by: Vijay Kumar Karanam &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Date: 05/17/2019
 
 <table>
   <tr>
