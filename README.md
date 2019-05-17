@@ -1,6 +1,6 @@
-# Project title
+# Project Title
 
-## project description
+## Project Description
 
 ## Team name : Fab Four 
 ## Team members 
@@ -9,7 +9,7 @@
 3. Vijay Kumar Karanam
 4. Sai Krishna Teja Kancharla
 
-## client
+## Client
 
 ## Team Logo
 ![team logo](fab_four.jpg)
@@ -28,7 +28,7 @@
 
 ### Approach: Agile Methodology
 
-### Roles and Responsibilities
+### Roles and Responsibilities:
 
 <table>
   <tr>
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-## Stakeholder Register
+## Stakeholder Register:
 
 ### Prepared by: Vijay Kumar Karanam &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Date: 05/17/2019
 
