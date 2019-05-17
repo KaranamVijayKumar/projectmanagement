@@ -12,6 +12,5 @@
 ## client
 
 ## Team Logo
-
-
+![team logo](four-hands-helpers-team-logo.jpg)
 
