@@ -10,7 +10,7 @@ We would like to create an interactive website of Project Management in Business
 3. Mehar Choudhary Meenavilli
 4. Sai Krishna Teja Kancharla
 
-## Client: Dr.Denise Case
+## Client: Dr. Denise Case
 
 ## Team Logo
 ![team logo](fab_four.jpg)
@@ -23,9 +23,9 @@ We would like to create an interactive website of Project Management in Business
 
 ### Project Manager: Vijay Kumar Karanam
 ### Project Objectives:
-  To create a simple website which helps in learning Project Management
+  To create a simple website which helps in learning Project Management.
 
-### Approach: Agile Methodology
+### Approach: Agile Methodology.
 
 ### Roles and Responsibilities:
 
