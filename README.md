@@ -17,15 +17,13 @@ We would like to create an interactive website of Project Management in Business
 
 ## Project Charter
 
-### Project Title :
+### Project Title : Learning Made Easy
 ### Project Start Date: 05/17/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projected Finish Date: 05/31/19
 ### Budget Information: Free of Cost
 
 ### Project Manager: Vijay Kumar Karanam
 ### Project Objectives:
-
-
-### Main Project Success Criteria:
+  To create a simple website which helps in learning Project Management
 
 ### Approach: Agile Methodology
 
