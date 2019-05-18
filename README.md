@@ -98,7 +98,7 @@ We would like to create an interactive website of Project Management in Business
   </tr>
   <tr>
     <td>Sai Krishna Teja Kancharla</td>
-    <td>user</td>
+    <td>User</td>
     <td>External</td>
     <td>Client</td>
     <td>4032096071</td>
