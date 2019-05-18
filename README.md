@@ -76,31 +76,31 @@ We would like to create an interactive website of Project Management in Business
     <th>Contact Information</th>
   </tr>
   <tr>
-    <td>Project Manager</td>
     <td>Vijay Kumar Karanam</td>
-    <td>Internal</td>
     <td></td>
+    <td>Internal</td>
+    <td>Project Manager</td>
     <td>4042087608</td>
   </tr>
   <tr>
-    <td>Team Leader</td>
     <td>Gunashekar Koppula</td>
-    <td>Internal</td>
     <td></td>
+    <td>Internal</td>
+    <td>Team Leader</td>
     <td>6602087504</td>
   </tr>
   <tr>
-    <td>Team Member</td>
     <td>Mehar Choudhary Meenavilli</td>
-    <td>Internal</td>
     <td></td>
+    <td>Internal</td>
+    <td>Team Member</td>
     <td>4807988692</td>
   </tr>
   <tr>
-    <td>Client</td>
     <td>Sai Krishna Teja Kancharla</td>
-    <td>External</td>
     <td></td>
+    <td>External</td>
+    <td>Client</td>
     <td>4032096071</td>
   </tr>
 </table>
