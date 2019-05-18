@@ -39,25 +39,25 @@ We would like to create an interactive website of Project Management in Business
   <tr>
     <td>Project Manager</td>
     <td>Vijay Kumar Karanam</td>
-    <td></td>
+    <td>Manager</td>
     <td>4042087608</td>
   </tr>
   <tr>
     <td>Team Leader</td>
     <td>Gunashekar Koppula</td>
-    <td></td>
+    <td>Lead</td>
     <td>6602087504</td>
   </tr>
   <tr>
     <td>Team Member</td>
     <td>Mehar Choudhary Meenavilli</td>
-    <td></td>
+    <td>Developer</td>
     <td>4807988692</td>
   </tr>
   <tr>
     <td>Client</td>
     <td>Sai Krishna Teja Kancharla</td>
-    <td></td>
+    <td>User</td>
     <td>4032096071</td>
   </tr>
 </table>
@@ -77,28 +77,28 @@ We would like to create an interactive website of Project Management in Business
   </tr>
   <tr>
     <td>Vijay Kumar Karanam</td>
-    <td></td>
+    <td>Manager</td>
     <td>Internal</td>
     <td>Project Manager</td>
     <td>4042087608</td>
   </tr>
   <tr>
     <td>Gunashekar Koppula</td>
-    <td></td>
+    <td>Lead</td>
     <td>Internal</td>
     <td>Team Leader</td>
     <td>6602087504</td>
   </tr>
   <tr>
     <td>Mehar Choudhary Meenavilli</td>
-    <td></td>
+    <td>Developer</td>
     <td>Internal</td>
     <td>Team Member</td>
     <td>4807988692</td>
   </tr>
   <tr>
     <td>Sai Krishna Teja Kancharla</td>
-    <td></td>
+    <td>user</td>
     <td>External</td>
     <td>Client</td>
     <td>4032096071</td>
