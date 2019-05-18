@@ -1,6 +1,7 @@
-# Project Title:
+# Project Title: Learning Made Easy
 
 ## Project Description:
+We would like to create an interactive website of Project Management in Business and Technology. This web site helps students in learning all 5 Process Groups (initiating, planning, executing, monitoring & controlling, and control) and all 10 Knowledge Areas. 
 
 ## Team Name : Fab Four 
 ## Team Members 
@@ -9,7 +10,7 @@
 3. Mehar Choudhary Meenavilli
 4. Sai Krishna Teja Kancharla
 
-## Client
+## Client: Dr.Denise Case
 
 ## Team Logo
 ![team logo](fab_four.jpg)
@@ -18,7 +19,7 @@
 
 ### Project Title :
 ### Project Start Date: 05/17/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projected Finish Date: 05/31/19
-### Budget Information: $ 600
+### Budget Information: Free of Cost
 
 ### Project Manager: Vijay Kumar Karanam
 ### Project Objectives:
