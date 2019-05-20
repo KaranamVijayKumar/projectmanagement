@@ -25,7 +25,7 @@ We would like to create an interactive website of Project Management in Business
 ### Project Objectives:
   To create a simple website which helps in learning Project Management.
 
-### Approach: Agile Methodology.
+### Approach: Agile Methodology
 
 ### Roles and Responsibilities:
 
