@@ -14,6 +14,7 @@ We would like to create an interactive website of Project Management in Business
 
 ## Team Logo
 ![team logo](fab_four.jpg)
+@ Copyright: PeoplePuzzle Connected Team of Four.
 
 ## Project Charter
 
