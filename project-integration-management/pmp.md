@@ -51,5 +51,23 @@
 </table>
 <br>
 
+#### Managerial Process Plan
+
+Mangerial Process Plan consists of the Start Up plans like the esitmations , staffings and resource allocations , we used jira for managing this the link for jira is given below:
+
+[Jira](http://198.209.246.206:8080/secure/RapidBoard.jspa?rapidView=23&projectKey=LME&view=planning.nodetail "Jira Link")
+
+#### Technincal Process Plan
+
+The techninical process plan consists of the infrastructure plan, tools and techniques
+
+#### Supporting Process Plan
+
+The supporting process plan consists of
+
+* Configuration Management Plan
+* Verification and Validation Plan
+* quality assurance Plan
+
  
  
