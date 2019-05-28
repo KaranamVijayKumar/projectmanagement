@@ -10,4 +10,4 @@ User needs a good interactive website which should be easily navigated and shoul
 Business case, Stakeholder Register, Project charter, Contract, Scope Statement, Work Breakdown Structure, Schedule Log, Budget, Status Reports, Gantt charts, Issue Logs, Project presentation, Project report, Lessons-learned report, and other documents that are required for the project.
 
 # Product Specifications
-https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/product%20specifications
+https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/product%20specifications.md
