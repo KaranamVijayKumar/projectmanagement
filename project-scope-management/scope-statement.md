@@ -8,3 +8,6 @@ User needs a good interactive website which should be easily navigated and shoul
 
 # Project Deliverables
 Business case, Stakeholder Register, Project charter, Contract, Scope Statement, Work Breakdown Structure, Schedule Log, Budget, Status Reports, Gantt charts, Issue Logs, Project presentation, Project report, Lessons-learned report, and other documents that are required for the project.
+
+# Product Specifications
+lik
