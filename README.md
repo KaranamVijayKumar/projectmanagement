@@ -108,4 +108,14 @@ We would like to create an interactive website of Project Management in Business
   </tr>
 </table>
 
+### Links to Key Artifacts
+
+* [Project Charter](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-integration-management/project-charter.md)
+* [Scope Statement](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/scope-statement.md)
+* [Work Breakdown Structure](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/WBS%20Tree%20Structure)
+* [Gantt Chart POD](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Learning%20Made%20Easy.pod)
+* [Gantt Chart Task1](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Gantt_Chart_01.PNG)
+* [Gantt Chart Task2](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Gantt_Chart_02.PNG)
+* [Cost Estimation](https://docs.google.com/spreadsheets/d/1QCorTFFWIbQ6laoLgMSgOSUC70jZ-G5k3fI5TECkFsg/edit#gid=0)
+
 
