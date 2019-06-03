@@ -71,3 +71,6 @@ ID|Vijay| Meher| Guna| Teja|
 4 | **Testing**|<p>R</p>| | <p>P</p>|
 5 | **Monitoring & Controlling**| <p>RP</p>| |<p>P</p> |
 6 | **Controlling**| | <p>RP</p>|<p>P</p>|
+
+R=Responsible member in the project <br/>
+P=Performing member in the project <br/>
