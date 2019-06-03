@@ -59,4 +59,15 @@ Getting the needed personnel assigned to and working on the project.
 Building individual and group skills to enhance project performance.
 
 ## Managing the project team: 
-Tracking team member performance, motivating team members, providing timely feedback, resolving issues and conflicts, and coordinating changes to help enhance project performance 
+Tracking team member performance, motivating team members, providing timely feedback, resolving issues and conflicts, and coordinating changes to help enhance project performance.
+
+## Responsibility Assignment Matrix
+
+ID|Vijay| Meher| Guna| Teja|
+---|---|---|---|---|
+1 | **Initiation** | |<p>P</p>| |
+2 | **Planning**   | | |<p> RP</p>|
+3 | **Execution**|<p>RP</p>|<p>P</p>| |
+4 | **Testing**|<p>R</p>| | <p>P</p>|
+5 | **Monitoring & Controlling**| <p>RP</p>| |<p>P</p> |
+6 | **Controlling**| | <p>RP</p>|<p>P</p>|
