@@ -14,7 +14,7 @@ A resource plan describes how people and physical resources will be estimated, a
 
 # Project Resource Management Processes
 
-Processes include
+Processes include Planning human resource management, Acquiring & Developing the Project Team and Managing the Project team.
 ## Planning human resource management: 
 Identifying & documenting project roles, responsibilities, and reporting relationships.
 
