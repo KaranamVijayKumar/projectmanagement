@@ -4,6 +4,11 @@
 
 ### Define Project Quality
 
+| What to do                                              | How to do                                                                                                                                                                                                                                                                       |
+|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Identify the overall quality objectives for the project |            State the quality objectives in terms of the project objectives and/or organizational objectives. Determine quality objectives for the product with the customer. There may be overall organizational quality objectives or policies that the project can reference. |
+
+
 ### Measure Project Quality
 
 ## Quality Assurance
