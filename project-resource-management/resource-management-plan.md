@@ -28,31 +28,32 @@ Identifying & documenting project roles, responsibilities, and reporting relatio
   <tr>
     <td>Project Manager</td>
     <td>Vijay Kumar Karanam</td>
-    <td></td>
+    <td>Manager</td>
     <td>4042087608</td>
   </tr>
   <tr>
     <td>Team Leader</td>
     <td>Gunashekar Koppula</td>
-    <td></td>
+    <td>Lead</td>
     <td>6602087504</td>
   </tr>
   <tr>
     <td>Team Member</td>
     <td>Mehar Choudhary Meenavilli</td>
-    <td></td>
+    <td>Developer</td>
     <td>4807988692</td>
   </tr>
   <tr>
     <td>Client</td>
     <td>Sai Krishna Teja Kancharla</td>
-    <td></td>
+    <td>User</td>
     <td>4032096071</td>
   </tr>
 </table>
+<br>
 
 ## Acquiring the project team: 
-Getting the needed personnel assigned to and working on the project.
+Getting the needed personnel assigned to and working on the project. 
 
 ## Developing the project team: 
 Building individual and group skills to enhance project performance.
