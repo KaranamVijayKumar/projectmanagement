@@ -1,16 +1,19 @@
 ## Project Charter
 
-### Project Title : Learning Made Easy
-### Project Start Date: 05/17/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projected Finish Date: 05/31/19
-### Budget Information: Free of Cost
+**Project Title** : Learning Made Easy
 
-### Project Manager: Vijay Kumar Karanam
-### Project Objectives:
+**Project Start Date** : 05/17/19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projected Finish Date**: 05/31/19
+
+**Budget Information** : Free of Cost
+
+**Project Manager**: Vijay Kumar Karanam
+
+**Project Objectives**:
   To create a simple website which helps in learning Project Management
 
-### Approach: Agile Methodology
+**Approach**: Agile Methodology
 
-### Roles and Responsibilities:
+#### Roles and Responsibilities:
 
 <table>
   <tr>
