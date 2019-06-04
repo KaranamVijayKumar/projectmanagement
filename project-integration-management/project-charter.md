@@ -1,4 +1,4 @@
-## Project Charter
+# Project Charter
 
 **Project Title** : Learning Made Easy
 
@@ -13,7 +13,7 @@
 
 **Approach**: Agile Methodology
 
-#### Roles and Responsibilities:
+### Roles and Responsibilities:
 
 <table>
   <tr>
