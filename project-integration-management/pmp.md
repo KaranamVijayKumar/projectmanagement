@@ -1,11 +1,11 @@
 # Project Management Plan
 
-* ## Links to Key Artifacts
-* ## Overview
-* ## Project Organization
-* ## Managerial Process Plan
-* ## Technical Process Plan
-* ## Supporting Process Plan
+*  Links to Key Artifacts
+*  Overview
+*  Project Organization
+*  Managerial Process Plan
+*  Technical Process Plan
+*  Supporting Process Plan
 
 ### Links to Key Artifacts
 
