@@ -6,24 +6,23 @@ Learning Made Easy
 | __________Initiation ---|_______ Develop Project Charter
 |                         |_______ Approval of Project Charter
 |                         |_______ Review Project Charter
-|                         |_______ Develop StakeHolder register
+|                         
 |                         
 |
+|                          
 |                         |_______ Develop Project Management Plan
-|                         |_______ Develop Scope Statement
-|                         |_______ Develop Time Management Plan
+|                         |_______ Develop Scope Management Plan
+| __________ Planning  ---|_______ Develop Time Management Plan
 |                         |_______ Develop Cost Management Plan
 |                         |_______ Develop Quality Management Plan
-|                         |_______ Develop Human Resource Plan
-| __________ Planning  ---|_______ Develop Risk Management Plan
-|                         |_______ Develop Procurement Management Plan
-|                         |_______ Develop Stakeholder Management Plan
 |                         |_______ Approval of all Plans
 |
 |
 |                         |_______ Designing of Layouts
-|                         |_______ API for Set Up
-| __________Execution  ---|_______ Creating API for Login
+|                         |_______ Login Screen
+|                         |_______ Database Set Up
+|                         |_______ API Set Up
+| __________Execution  ---|_______ Creating an API for Login
 |                         |_______ Design of Home Screen 
 |                         |_______ Implementation of JavaScript
 |                         |_______ Finishing Development
