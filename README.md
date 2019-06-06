@@ -52,13 +52,13 @@ We would like to create an interactive website of Project Management in Business
     <td>6602087504</td>
   </tr>
   <tr>
-    <td>Team Member</td>
+    <td>Developer</td>
     <td>Mehar Choudhary Meenavilli</td>
     <td>Developer</td>
     <td>4807988692</td>
   </tr>
   <tr>
-    <td>Client</td>
+    <td>Developer/Tester</td>
     <td>Sai Krishna Teja Kancharla</td>
     <td>User</td>
     <td>4032096071</td>
@@ -96,14 +96,14 @@ We would like to create an interactive website of Project Management in Business
     <td>Mehar Choudhary Meenavilli</td>
     <td>Developer</td>
     <td>Internal</td>
-    <td>Team Member</td>
+    <td>Developer</td>
     <td>4807988692</td>
   </tr>
   <tr>
     <td>Sai Krishna Teja Kancharla</td>
     <td>User</td>
-    <td>External</td>
-    <td>Client</td>
+    <td>Internal</td>
+    <td>Developer/Tester</td>
     <td>4032096071</td>
   </tr>
 </table>
