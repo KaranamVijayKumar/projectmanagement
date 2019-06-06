@@ -40,7 +40,6 @@
 * Project Quality Management:
 
   [Quality Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-quality-management/quality-management-plan.md)
-<br>
 
 * Project Resource Management
 
@@ -64,20 +63,20 @@
   
  * Project Procurement Management
  
- [Procurement Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-procurement-management/procurement-management-plan.md)
- <br>
+   [Procurement Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-procurement-management/procurement-management-plan.md)
+ 
 
- [Statement of Work](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-procurement-management/statement-of-work.md)
+   [Statement of Work](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-procurement-management/statement-of-work.md)
 
- [Request for Proposal](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-procurement-management/request-for-proposal.md)
+   [Request for Proposal](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-procurement-management/request-for-proposal.md)
 
   * Project Stakeholder Management
   
-  [Stakeholder Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-stakeholder-management/stakeholder-management-plan.md)
+   [Stakeholder Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-stakeholder-management/stakeholder-management-plan.md)
 
-  [Stakeholder Register](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/docs/Stakeholder_register.md)
+   [Stakeholder Register](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/docs/Stakeholder_register.md)
 
-  [Issue Log](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-stakeholder-management/issue-log.md)
+   [Issue Log](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-stakeholder-management/issue-log.md)
   
 
 ### Overview
