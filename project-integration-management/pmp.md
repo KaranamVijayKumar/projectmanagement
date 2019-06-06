@@ -36,7 +36,32 @@
 * Project Cost Management:
 
   [project cost estimation and budget](https://docs.google.com/spreadsheets/d/1QCorTFFWIbQ6laoLgMSgOSUC70jZ-G5k3fI5TECkFsg/edit#gid=0)
+  
+* Project Quality Management
 
+  [Quality Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-quality-management/quality-management-plan.md)
+<br>
+
+* Project Resource Management
+
+  [Resource  Management  Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-resource-management/resource-management-plan.md)
+  <br>
+  [Organizational chart](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-resource-management/project-organizational-charts.md)
+
+* Project Communications Management
+
+  [Communication  Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-communications-management/communication-management-plan.md)
+  <br>
+
+  [Stake Holder Communication Analysis](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-communications-management/stake-holder-communication-analysis.md)
+
+* Project Risk Management
+
+  [Risk Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-risk-management/risk-management-plan.md)
+  <br>
+
+  [Risk Register](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-risk-management/risk-register.md)
+  
 
 ### Overview
 
