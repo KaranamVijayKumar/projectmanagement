@@ -34,12 +34,12 @@ Our project is about developing a quiz website for Project Management which cons
   <tr>
     <td class="tg-s6z2"><br>Stakeholder register<br>&nbsp;&nbsp;</td>
     <td class="tg-s6z2"><br>  It contains names, position, project role, and contact information of the employee<br>  </td>
-    <td class="tg-s6z2"><br>&nbsp;&nbsp;8/2/2019<br>&nbsp;&nbsp;</td>
+    <td class="tg-s6z2"><br>&nbsp;&nbsp;7/2/2019<br>&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-s6z2"><br>Final upgradation<br>&nbsp;&nbsp;</td>
     <td class="tg-s6z2"><br>  This is the final deliverable of the project<br>  </td>
-    <td class="tg-s6z2"><br>&nbsp;&nbsp;08/5/2019<br>&nbsp;&nbsp;</td>
+    <td class="tg-s6z2"><br>&nbsp;&nbsp;7/5/2019<br>&nbsp;&nbsp;</td>
   </tr>
   
 </table>
