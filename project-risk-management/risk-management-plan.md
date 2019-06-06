@@ -10,3 +10,9 @@ Risk management includes six main processes :-
 * Quantitative risk analysis
 * Risk response planning
 * Risk monitoring and control
+
+## Outputs
+
+[Risk Mitigation Strategies](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-risk-management/risk-mitigation-strategies.md)
+<br>
+[Risk Register](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-risk-management/risk-register.md)
