@@ -35,13 +35,13 @@
     <td>6602087504</td>
   </tr>
   <tr>
-    <td>Team Member</td>
+    <td>Developer</td>
     <td>Mehar Choudhary Meenavilli</td>
     <td></td>
     <td>4807988692</td>
   </tr>
   <tr>
-    <td>Client</td>
+    <td>Developer/Tester</td>
     <td>Sai Krishna Teja Kancharla</td>
     <td></td>
     <td>4032096071</td>
