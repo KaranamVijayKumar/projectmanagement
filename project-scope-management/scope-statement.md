@@ -1,7 +1,7 @@
 # Scope Statement
 
 ## Project Description
-Our project is about developing a quiz website for Project Management which consists of only multiple choice questions to help students to learn about the knowledge areas and process groups present in project management. Using this website students can easily learn and remember the concepts which might be helpful during exams and also helpful to gain the knowledge.
+Our project is about developing a quiz website for Project Management which consists of Login Page,Learning Module, Quiz and Dashboard. Quiz consists of only multiple choice questions to help students to learn about the knowledge areas and process groups present in project management. Using this website students can easily learn and remember the concepts which might be helpful during exams and also helpful to gain the knowledge.
 
 ## Product User Acceptance Criteria
 User needs a good interactive website which should be easily navigated and should understand easily. So we always try to work on that and we will satisfy the user as much as we can. We also make sort stories to make user understand that what we try to implement.
