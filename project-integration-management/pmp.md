@@ -12,19 +12,25 @@
 * Project Integration Management:
 
   [Project Charter](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-integration-management/project-charter.md)
+  <br>
   [Stakeholder Register](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/docs/Stakeholder_register.md)
+  <br>
   [Project Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-integration-management/pmp.md)
 
 * Project Scope Management:
 
   [Requirements specifications](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/requirement-specifications.md)
+  <br>
   [Scope statement](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/scope-statement.md)
+  <br>
   [Work Breakdown structure](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/WBS%20Tree%20Structure)
   
 * Project Schedule (was Time) Management:
 
   [Gantt_Chart_Part1](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Gantt_Chart_01.PNG)
+  <br>
   [Gantt_Chart_Part2](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Gantt_Chart_02.PNG)
+  <br>
   [Gantt Chart POD](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Learning%20Made%20Easy.pod)
 
 * Project Cost Management:
