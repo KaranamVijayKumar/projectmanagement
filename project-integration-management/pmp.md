@@ -37,7 +37,7 @@
 
   [project cost estimation and budget](https://docs.google.com/spreadsheets/d/1QCorTFFWIbQ6laoLgMSgOSUC70jZ-G5k3fI5TECkFsg/edit#gid=0)
   
-* Project Quality Management
+* Project Quality Management:
 
   [Quality Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-quality-management/quality-management-plan.md)
 <br>
@@ -61,6 +61,23 @@
   <br>
 
   [Risk Register](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-risk-management/risk-register.md)
+  
+ * Project Procurement Management
+ 
+ [Procurement Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-procurement-management/procurement-management-plan.md)
+ <br>
+
+ [Statement of Work](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-procurement-management/statement-of-work.md)
+
+ [Request for Proposal](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-procurement-management/request-for-proposal.md)
+
+  * Project Stakeholder Management
+  
+  [Stakeholder Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-stakeholder-management/stakeholder-management-plan.md)
+
+  [Stakeholder Register](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/docs/Stakeholder_register.md)
+
+  [Issue Log](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-stakeholder-management/issue-log.md)
   
 
 ### Overview
