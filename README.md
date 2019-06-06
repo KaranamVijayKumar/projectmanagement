@@ -60,7 +60,7 @@ We would like to create an interactive website of Project Management in Business
   <tr>
     <td>Developer/Tester</td>
     <td>Sai Krishna Teja Kancharla</td>
-    <td>User</td>
+    <td>Developer</td>
     <td>4032096071</td>
   </tr>
 </table>
@@ -101,7 +101,7 @@ We would like to create an interactive website of Project Management in Business
   </tr>
   <tr>
     <td>Sai Krishna Teja Kancharla</td>
-    <td>User</td>
+    <td>Developer</td>
     <td>Internal</td>
     <td>Developer/Tester</td>
     <td>4032096071</td>
