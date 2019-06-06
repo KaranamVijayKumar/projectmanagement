@@ -7,15 +7,30 @@
 *  Technical Process Plan
 *  Supporting Process Plan
 
-### Links to Key Artifacts
+## Links to Key Artifacts
 
-* [Project Charter](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-integration-management/project-charter.md)
-* [Scope Statement](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/scope-statement.md)
-* [Work Breakdown Structure](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/WBS%20Tree%20Structure)
-* [Gantt Chart POD](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Learning%20Made%20Easy.pod)
-* [Gantt Chart Task1](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Gantt_Chart_01.PNG)
-* [Gantt Chart Task2](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Gantt_Chart_02.PNG)
-* [Cost Estimation](https://docs.google.com/spreadsheets/d/1QCorTFFWIbQ6laoLgMSgOSUC70jZ-G5k3fI5TECkFsg/edit#gid=0)
+* Project Integration Management:
+
+  [Project Charter](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-integration-management/project-charter.md)
+  [Stakeholder Register](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/docs/Stakeholder_register.md)
+  [Project Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-integration-management/pmp.md)
+
+* Project Scope Management:
+
+  [Requirements specifications](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/requirement-specifications.md)
+  [Scope statement](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/scope-statement.md)
+  [Work Breakdown structure](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-scope-management/WBS%20Tree%20Structure)
+  
+* Project Schedule (was Time) Management:
+
+  [Gantt_Chart_Part1](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Gantt_Chart_01.PNG)
+  [Gantt_Chart_Part2](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Gantt_Chart_02.PNG)
+  [Gantt Chart POD](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-schedule-management/Learning%20Made%20Easy.pod)
+
+* Project Cost Management:
+
+  [project cost estimation and budget](https://docs.google.com/spreadsheets/d/1QCorTFFWIbQ6laoLgMSgOSUC70jZ-G5k3fI5TECkFsg/edit#gid=0)
+
 
 ### Overview
 
