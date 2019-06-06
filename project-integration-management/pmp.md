@@ -72,11 +72,11 @@
 
   * Project Stakeholder Management
   
-   [Stakeholder Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-stakeholder-management/stakeholder-management-plan.md)
+    [Stakeholder Management Plan](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-stakeholder-management/stakeholder-management-plan.md)
 
-   [Stakeholder Register](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/docs/Stakeholder_register.md)
+    [Stakeholder Register](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/docs/Stakeholder_register.md)
 
-   [Issue Log](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-stakeholder-management/issue-log.md)
+    [Issue Log](https://github.com/KaranamVijayKumar/projectmanagement/blob/master/project-stakeholder-management/issue-log.md)
   
 
 ### Overview
